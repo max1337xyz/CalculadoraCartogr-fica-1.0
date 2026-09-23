@@ -272,7 +272,7 @@ python --version
 ## 2. Clone o projeto
 
 ```bash
-git clone SEU_LINK_DO_REPOSITORIO
+git clone https://github.com/max1337xyz/CalculadoraCartogr-fica-1.0
 ```
 
 Entre na pasta:
@@ -305,7 +305,7 @@ O projeto ainda está em desenvolvimento e pode receber novas ferramentas cartog
 
 Algumas funcionalidades planejadas são:
 
-* [ ] Conversão de coordenadas
+* [X] Conversão de coordenadas
 * [ ] Cálculo de área
 * [ ] Cálculo de perímetro
 * [ ] Escalas cartográficas
@@ -316,7 +316,7 @@ Algumas funcionalidades planejadas são:
 * [ ] Melhorias na validação dos dados
 * [ ] Histórico dos cálculos
 * [ ] Exportação dos resultados
-* [ ] Interface mais completa
+* [X] Interface mais completa
 * [ ] Integração com mapas
 
 ---
